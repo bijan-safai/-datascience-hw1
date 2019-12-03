@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575340102823.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DDED4DC5",
+    "lastKnownWriteTime" : 8602282245557854240,
+    "last_content_update" : 1575340102823,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "context" : "namespace:base:::paste"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_code_browser"
+}
